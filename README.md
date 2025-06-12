@@ -5,7 +5,7 @@
 
 ## 📋 Deskripsi
 **Skinalyze** adalah aplikasi berbasis web yang memungkinkan pengguna mengunggah gambar kulit untuk dianalisis secara otomatis menggunakan model machine learning.  
-Aplikasi ini bertujuan untuk memberikan deteksi awal dan edukasi mengenai berbagai jenis penyakit kulit kepada masyarakat umum.
+Aplikasi ini bertujuan untuk memberikan deteksi awal mengenai berbagai jenis penyakit kulit kepada masyarakat umum.
 
 ---
 
