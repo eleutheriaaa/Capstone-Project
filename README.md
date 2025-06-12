@@ -20,7 +20,7 @@ Aplikasi ini bertujuan untuk memberikan deteksi awal mengenai berbagai jenis pen
 
 ## 🛠 Teknologi yang Digunakan
 
-- **Frontend:** React.js  
+- **Frontend:** Node.js  
 - **Backend:** Node.js (Hapi)  
 - **ML API:** Python (Flask)  
 - **Machine Learning Model:** TensorFlow + MobileNetV2  
