@@ -42,7 +42,7 @@ cd backend
 npm install
 node src/server.js
 
-### 🔹 Frontend
+### 🔹 Backend ML
 cd ml-api
 pip install -r requirements.txt
 python app.py
