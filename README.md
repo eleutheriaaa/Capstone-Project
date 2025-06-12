@@ -36,16 +36,21 @@ Aplikasi ini bertujuan untuk memberikan deteksi awal mengenai berbagai jenis pen
 cd frontend
 npm install
 npm start
+```
 
 ### 🔹 Backend
+```bash
 cd backend
 npm install
 node src/server.js
+```
 
 ### 🔹 Backend ML
+```bash
 cd ml-api
 pip install -r requirements.txt
 python app.py
+```
 
 Capstone-Project/
 ├── frontend/
